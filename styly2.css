@@ -1,0 +1,38 @@
+h1{
+color: hotpink;
+font-size:48px;
+font-weight: normal;
+font-family:'Playfair Display', serif;
+ text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;}
+  a {
+  color: #ff69b4;
+  text-decoration: none;
+  font-weight: 600;
+}
+h2 {
+  color: hotpink;
+  font-family: 'Playfair Display', serif;
+  font-size: 25px;
+  letter-spacing: 1px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+body {
+  background: linear-gradient(135deg, #ffe6f2 0%, #fff8f0 100%);
+  font-family: 'Playfair Display', serif;
+  color: #333333;
+  margin: 0;
+  padding: 50px 100px;
+  line-height: 1.6;
+}
+ul {
+  list-style-type: square;
+   font-family: 'Playfair Display', serif;
+}
+h3 {
+  font-family: 'Playfair Display', serif;
+text-align: left;
+}

@@ -1,0 +1,30 @@
+h1{
+color: hotpink;
+font-size:48px;
+font-weight: normal;
+font-family:'Playfair Display', serif;
+ text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;}
+body {
+  background: linear-gradient(135deg, #ffe6f2 0%, #fff8f0 100%);
+  font-family: 'Montserrat', sans-serif;
+  color: #333333;
+  margin: 0;
+  padding: 20px 60px;
+  line-height: 1.6;
+}
+h2, h3 {
+  font-family: 'Playfair Display', serif;
+  color: #444;
+  margin-top: 20px;
+}
+a {
+  color: #ff69b4;
+  text-decoration: none;
+  font-weight: 600;
+}
+ul {
+  list-style-type: square;
+  color: #555;
+}
